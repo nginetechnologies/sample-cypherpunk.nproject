@@ -1,0 +1,39 @@
+{
+    "01608071-1cbb-b2e6-d7a7-846a05b438c7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Cypherpunk_EnviroDiffuse.tex.nasset"
+    },
+    "34d350a2-6ee3-5e41-8440-c58d2fb0e72c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "35c8c4ce-fdc2-0b2b-f602-9db49131e38f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Cypherpunk_Enviro.tex.nasset"
+    },
+    "413f202c-9bf2-ddcc-028c-5815c00ca1bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Cypherpunk_EnviroSpecular.tex.nasset"
+    },
+    "61c02873-59ad-47bf-bdb9-3f34cd396105": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+    },
+    "7cfc220e-1614-419b-9bfb-f99fd32e9f50": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Cypherpunk",
+        "thumbnail": "f5c00296-4102-473d-bacc-f5d7e5c216c2",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "f35ab0a9-bb35-43b4-81e6-7e1ebb8580c6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Cypherpunk.scene.nasset"
+    },
+    "guid": "34d350a2-6ee3-5e41-8440-c58d2fb0e72c"
+}
