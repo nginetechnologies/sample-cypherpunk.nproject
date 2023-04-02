@@ -1,0 +1,120 @@
+{
+    "guid": "26886064-e158-bbd2-30d7-6f99eab8e2e9",
+    "source": "../SC_Cypherpunk.scene.nasset/../textures/T_Neon_Signs_D.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        1000
+    ],
+    "preset": 3,
+    "usage_flags": 6,
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 500000
+            },
+            {
+                "level": 1,
+                "offset": 500000,
+                "size": 125000
+            },
+            {
+                "level": 2,
+                "offset": 625000,
+                "size": 31752
+            },
+            {
+                "level": 3,
+                "offset": 656752,
+                "size": 8192
+            },
+            {
+                "level": 4,
+                "offset": 664944,
+                "size": 2048
+            },
+            {
+                "level": 5,
+                "offset": 666992,
+                "size": 512
+            },
+            {
+                "level": 6,
+                "offset": 667504,
+                "size": 128
+            },
+            {
+                "level": 7,
+                "offset": 667632,
+                "size": 32
+            },
+            {
+                "level": 8,
+                "offset": 667664,
+                "size": 8
+            },
+            {
+                "level": 9,
+                "offset": 667672,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 250000
+            },
+            {
+                "level": 1,
+                "offset": 250000,
+                "size": 63504
+            },
+            {
+                "level": 2,
+                "offset": 313504,
+                "size": 16384
+            },
+            {
+                "level": 3,
+                "offset": 329888,
+                "size": 4096
+            },
+            {
+                "level": 4,
+                "offset": 333984,
+                "size": 1024
+            },
+            {
+                "level": 5,
+                "offset": 335008,
+                "size": 256
+            },
+            {
+                "level": 6,
+                "offset": 335264,
+                "size": 64
+            },
+            {
+                "level": 7,
+                "offset": 335328,
+                "size": 16
+            },
+            {
+                "level": 8,
+                "offset": 335344,
+                "size": 16
+            },
+            {
+                "level": 9,
+                "offset": 335360,
+                "size": 16
+            }
+        ]
+    }
+}
