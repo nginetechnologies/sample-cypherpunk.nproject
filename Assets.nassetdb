@@ -1743,7 +1743,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
     "634ae9b5-617e-ac59-da2d-e2c07a331758": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3942,6 +3942,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Turret Teleporter.mesh.nasset/Turret Teleporter.mesh.nasset",
+        "thumbnail": "f8e098fb-b7c3-31e1-7462-f0ade69d7d7c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -4105,6 +4106,10 @@
             "1c79e800-c046-a9fe-4f90-fafed8f05afc",
             "5803ad9b-defb-24ed-80b5-10ef308adf78"
         ]
+    },
+    "f8e098fb-b7c3-31e1-7462-f0ade69d7d7c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Turret Teleporter.mesh.nasset/Thumbnails/Turret Teleporter.mesh.nasset.tex.nasset"
     },
     "f9709ce1-881b-3d87-2f97-93d85768a705": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
