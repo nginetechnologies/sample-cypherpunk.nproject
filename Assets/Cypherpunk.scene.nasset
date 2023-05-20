@@ -19,14 +19,14 @@
             },
             "transform": {
                 "position": [
-                    4.655,
-                    3.1775,
-                    4.5795
+                    8.09,
+                    5.0185,
+                    3.2184
                 ],
                 "rotation": [
-                    -40.1765,
-                    0.0,
-                    124.8285
+                    -17.2358,
+                    -0.0,
+                    117.7126
                 ]
             },
             "grid_settings": {
@@ -34,9 +34,9 @@
                 "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
                     "transform": {
                         "position": [
-                            0.0,
-                            0.0,
-                            2.0
+                            -22.0,
+                            1.0,
+                            -6.0
                         ]
                     }
                 }
@@ -59,12 +59,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "16d9312f-aca5-5871-2e66-cd6f0eff51e4"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "AC"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "16d9312f-aca5-5871-2e66-cd6f0eff51e4"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -83,12 +83,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f3da248d-4cb5-873a-4a7a-3dc3c8f7696f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "AC Side"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f3da248d-4cb5-873a-4a7a-3dc3c8f7696f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -107,12 +107,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5adb2f8d-6187-5ad4-3992-66fc6c9120fd"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "AC Stacked"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5adb2f8d-6187-5ad4-3992-66fc6c9120fd"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -131,12 +131,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3daa94c0-8b54-9f7a-b1a1-012c803283e7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Antenna 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3daa94c0-8b54-9f7a-b1a1-012c803283e7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -155,12 +155,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "005eee6a-1337-05c4-6a78-eb5676266274"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Antenna 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "005eee6a-1337-05c4-6a78-eb5676266274"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -179,12 +179,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7719a078-e0e1-7c99-19dc-e634acb3d3a7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cable Long"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7719a078-e0e1-7c99-19dc-e634acb3d3a7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -203,12 +203,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1d71c5d1-3954-e185-a072-ab8511405a83"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cable Small"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1d71c5d1-3954-e185-a072-ab8511405a83"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -227,12 +227,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a41c9896-b01a-2725-57ad-145eb9727efc"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cable Thick"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a41c9896-b01a-2725-57ad-145eb9727efc"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -251,12 +251,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "058b50a4-6c83-49b6-90f4-ee6bc1825be2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible Board"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "058b50a4-6c83-49b6-90f4-ee6bc1825be2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -275,12 +275,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "31575605-8079-7d3d-4326-104b4778e3da"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible Gear"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "31575605-8079-7d3d-4326-104b4778e3da"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -299,12 +299,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "537f7930-9af8-bbbb-d16f-9d07841fadb2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Computer"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "537f7930-9af8-bbbb-d16f-9d07841fadb2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -328,12 +328,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "49143a8a-169f-95a4-dca8-f2e841daa12f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Computer LRG"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49143a8a-169f-95a4-dca8-f2e841daa12f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -352,12 +352,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cbb7fc81-f530-f3b7-da07-6bd118d7fa25"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Door"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cbb7fc81-f530-f3b7-da07-6bd118d7fa25"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -376,12 +376,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "df57c1a9-fb5c-a2b6-5512-5eb865799bf2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Fence"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "df57c1a9-fb5c-a2b6-5512-5eb865799bf2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -400,12 +400,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b385374c-c288-8397-827a-78c913052983"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lever Base"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b385374c-c288-8397-827a-78c913052983"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -424,12 +424,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "98a5dd9c-b1f3-b4ed-59aa-4925a2572fec"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lever Top"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "98a5dd9c-b1f3-b4ed-59aa-4925a2572fec"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -448,12 +448,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "663400ec-0e9e-c5d3-20cd-4ae649fafad7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Square"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "663400ec-0e9e-c5d3-20cd-4ae649fafad7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -477,12 +477,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0d0f716b-1248-72da-a452-5e43cc0618b8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Street 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0d0f716b-1248-72da-a452-5e43cc0618b8"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -501,12 +501,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "adfd1ee4-4637-1563-ea3b-b472249c5f5b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Street 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "adfd1ee4-4637-1563-ea3b-b472249c5f5b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -525,12 +525,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e8ba0fc9-cd08-ea5e-36a4-d326398111f2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lootbox Base"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e8ba0fc9-cd08-ea5e-36a4-d326398111f2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -549,12 +549,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5fa4f637-7d9f-9711-ad59-355ad69f72ff"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lootbox Top"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5fa4f637-7d9f-9711-ad59-355ad69f72ff"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -573,12 +573,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "fefe08d8-8a01-551a-af7a-84d2cbd20c5a"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pickup Health"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fefe08d8-8a01-551a-af7a-84d2cbd20c5a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -597,12 +597,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "be43034f-fd74-ca21-b0b4-4cab3619e3b3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pickup Heart"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "be43034f-fd74-ca21-b0b4-4cab3619e3b3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -621,12 +621,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ae950ff9-1ec0-83f6-3a83-250c9395f4e1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pickup Tank"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ae950ff9-1ec0-83f6-3a83-250c9395f4e1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -645,12 +645,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b31fa18a-94d8-89b3-c48a-aa8e899219bf"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b31fa18a-94d8-89b3-c48a-aa8e899219bf"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -669,12 +669,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6a444e1a-9636-92b4-9055-4dddf8325766"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6a444e1a-9636-92b4-9055-4dddf8325766"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -693,12 +693,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "413496e5-2c87-0877-22c8-d5ca8b24a255"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Corner"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "413496e5-2c87-0877-22c8-d5ca8b24a255"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -717,12 +717,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3690a328-7ee7-d515-ffe6-8a3acdc4d218"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Corner 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3690a328-7ee7-d515-ffe6-8a3acdc4d218"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -741,12 +741,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4beef89f-a983-d944-70e9-23f72d320332"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4beef89f-a983-d944-70e9-23f72d320332"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -765,12 +765,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ceb1e39e-efed-9786-15de-b4043c8c220c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x1 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ceb1e39e-efed-9786-15de-b4043c8c220c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -789,12 +789,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e98def48-902a-bcd1-8bea-f7b1e38b9cfa"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e98def48-902a-bcd1-8bea-f7b1e38b9cfa"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -813,12 +813,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5407064b-c141-aff1-2ebc-0a3c40e64151"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x2 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5407064b-c141-aff1-2ebc-0a3c40e64151"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -842,12 +842,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "02b8d648-4897-7617-b28e-40a544be0351"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "02b8d648-4897-7617-b28e-40a544be0351"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -871,12 +871,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ba377af3-8df4-99ba-c712-f70a53306db2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x1 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ba377af3-8df4-99ba-c712-f70a53306db2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -895,12 +895,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "49ea030d-231c-a02c-fb61-6515cca0c3ba"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49ea030d-231c-a02c-fb61-6515cca0c3ba"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -919,12 +919,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "31e9104e-a8ac-7a76-79e6-d616a6906ef3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x4"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "31e9104e-a8ac-7a76-79e6-d616a6906ef3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -943,12 +943,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "868298c0-0813-a4d3-e3fb-a3b3a5a531b6"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x4 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "868298c0-0813-a4d3-e3fb-a3b3a5a531b6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -972,12 +972,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "90b4cc06-b853-4d90-ea7c-8d917f75094a"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Rail Corner"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "90b4cc06-b853-4d90-ea7c-8d917f75094a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -996,12 +996,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b1904923-b072-0e42-3d3a-a205fa9cdd73"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Rail Corner 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b1904923-b072-0e42-3d3a-a205fa9cdd73"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1020,12 +1020,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7465c672-e87a-64ea-4100-eb1fcd4c671d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Rail Long"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7465c672-e87a-64ea-4100-eb1fcd4c671d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1044,12 +1044,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6b84ac4d-f91f-97bf-5a6e-85668d85c9fc"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Rail Short"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6b84ac4d-f91f-97bf-5a6e-85668d85c9fc"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1068,12 +1068,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "47871d4b-bdf9-4a13-76af-f991d2054f8f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "47871d4b-bdf9-4a13-76af-f991d2054f8f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1092,12 +1092,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "43ac2343-3bc1-49ef-3cdc-a0270be662fb"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "43ac2343-3bc1-49ef-3cdc-a0270be662fb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1116,12 +1116,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4f6b06fc-9aca-8876-f900-f7309f0cffa6"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign 3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4f6b06fc-9aca-8876-f900-f7309f0cffa6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1140,12 +1140,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6e7cd69f-6e66-5598-f165-39b9be94f140"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign 4"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6e7cd69f-6e66-5598-f165-39b9be94f140"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1164,12 +1164,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9c86a49d-da1d-6209-df71-daa3a3d34ea8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9c86a49d-da1d-6209-df71-daa3a3d34ea8"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1188,12 +1188,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0e2f9454-d39e-43ce-e660-8aa994794802"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0e2f9454-d39e-43ce-e660-8aa994794802"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1212,12 +1212,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e7fe3075-9aea-2670-cdb4-5011ed282fa3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner 3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e7fe3075-9aea-2670-cdb4-5011ed282fa3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1236,12 +1236,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1566cc2d-efbb-a634-c55e-4bf050e2afc3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner 3 Fenced"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1566cc2d-efbb-a634-c55e-4bf050e2afc3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1260,12 +1260,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0ed4425e-654b-c30b-8905-3f5bcf4e5fca"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner Hazard"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0ed4425e-654b-c30b-8905-3f5bcf4e5fca"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1284,12 +1284,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4eb7b3f5-7701-80fe-61d0-0a259f20bf3e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner Small1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4eb7b3f5-7701-80fe-61d0-0a259f20bf3e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1308,12 +1308,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "429a2da6-d661-d62c-0da4-49b315b7faf7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Corner Small2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "429a2da6-d661-d62c-0da4-49b315b7faf7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1332,12 +1332,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "22415134-52d1-926a-3b1a-983d2e3770ca"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Small 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "22415134-52d1-926a-3b1a-983d2e3770ca"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1356,12 +1356,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ecf7d82d-686d-e94a-6bc8-9280f3877f57"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Small 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ecf7d82d-686d-e94a-6bc8-9280f3877f57"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1380,12 +1380,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5e623364-b837-dda9-606e-cdc85467288e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Small 3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5e623364-b837-dda9-606e-cdc85467288e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1404,12 +1404,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "08c66b78-d2bb-35f0-4cb2-b0ec1b8d0eca"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Support"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "08c66b78-d2bb-35f0-4cb2-b0ec1b8d0eca"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1428,12 +1428,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "db032e0f-80ff-9f49-dd8b-62ca850475c2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Support Long"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "db032e0f-80ff-9f49-dd8b-62ca850475c2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1452,12 +1452,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "93e9a0b0-7a5b-46b9-8856-e75c0aea7f07"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Support Short"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "93e9a0b0-7a5b-46b9-8856-e75c0aea7f07"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1476,12 +1476,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2191eb8c-bb9c-5a4a-c2d8-6fa1bb1c279e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tank"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2191eb8c-bb9c-5a4a-c2d8-6fa1bb1c279e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1500,12 +1500,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "62939862-24d3-bd50-5234-2a987ea6373c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret Cannon Top"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "62939862-24d3-bd50-5234-2a987ea6373c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1524,12 +1524,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "17c45c83-0e74-a3a8-0d4e-7ad3be3304cc"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret Cannon Base"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "17c45c83-0e74-a3a8-0d4e-7ad3be3304cc"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1548,12 +1548,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b586a5e8-cd25-1465-5b25-d6803852cf59"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret Gun Top"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b586a5e8-cd25-1465-5b25-d6803852cf59"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1572,12 +1572,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "af28da46-b444-6bae-fca3-99aea188596c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret Gun Base"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "af28da46-b444-6bae-fca3-99aea188596c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1596,12 +1596,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "10d8b7d4-0c55-a4b7-b2ad-0d5da46739a6"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret GunDouble Top"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "10d8b7d4-0c55-a4b7-b2ad-0d5da46739a6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1620,12 +1620,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b66f6deb-77ca-b12c-75e9-78c8cb876b40"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret GunDouble Base"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b66f6deb-77ca-b12c-75e9-78c8cb876b40"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1644,12 +1644,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4080b2a6-7142-3489-3315-a60a93770cdc"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Turret Teleporter"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4080b2a6-7142-3489-3315-a60a93770cdc"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1668,12 +1668,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "722a485b-83fc-54e0-7eda-48034133e07b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "TV 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "722a485b-83fc-54e0-7eda-48034133e07b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1692,12 +1692,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "dc4b04bb-611d-3f4f-2402-283ef9672337"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "TV 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "dc4b04bb-611d-3f4f-2402-283ef9672337"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1719,12 +1719,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d63e3c9d-f48f-5097-e8c6-8aba16772d37"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "TV 3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d63e3c9d-f48f-5097-e8c6-8aba16772d37"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1748,12 +1748,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "adfd8168-5145-b874-445e-4029a7b4d7a8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Modular Plat Edge"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "adfd8168-5145-b874-445e-4029a7b4d7a8"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1772,12 +1772,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ab061b02-1358-93d8-1bc1-a6349f241e4d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Moduler Plat Corner"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ab061b02-1358-93d8-1bc1-a6349f241e4d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1796,12 +1796,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0576bc3-83bb-67f4-d2d1-2b2dfd878f14"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Moduler Plat Middle"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0576bc3-83bb-67f4-d2d1-2b2dfd878f14"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1820,12 +1820,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ff7524ad-4a3d-e864-d889-fe46188b43d7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ff7524ad-4a3d-e864-d889-fe46188b43d7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1844,12 +1844,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "04c9e1cc-aaf1-cf44-7b0c-ea33635d75e3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "04c9e1cc-aaf1-cf44-7b0c-ea33635d75e3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1868,12 +1868,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ec3d8d46-ef1e-8c3c-285d-835add5b5aaf"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ec3d8d46-ef1e-8c3c-285d-835add5b5aaf"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1892,12 +1892,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4c25b5da-5448-519f-f15b-14c2efc6057b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4c25b5da-5448-519f-f15b-14c2efc6057b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1921,12 +1921,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5bd33d7b-c112-123c-1568-057261da3fdf"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x1 Empty.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5bd33d7b-c112-123c-1568-057261da3fdf"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1958,17 +1958,13 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9995
+                    89.9993
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
                 "asset": "3d4270da-24fc-4ec0-a28a-68766a429792"
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "154ceefd-ab1e-9576-084b-8521a8c68d8c"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spawn Point"
@@ -1978,6 +1974,10 @@
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "154ceefd-ab1e-9576-084b-8521a8c68d8c"
                 }
             ]
         },
@@ -2015,10 +2015,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5ffed564-f14d-69c3-5b89-7fa508ff2fcc"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Light"
                 },
@@ -2027,6 +2023,10 @@
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5ffed564-f14d-69c3-5b89-7fa508ff2fcc"
                 }
             ]
         },
@@ -2045,12 +2045,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "05fc34b2-1722-2e2f-2126-d258a0b62530"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "05fc34b2-1722-2e2f-2126-d258a0b62530"
                 }
             ]
         },
@@ -2082,10 +2082,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "976de8ae-27b5-a9ad-95b9-ff7e3b597902"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Environment Light"
                 },
@@ -2094,6 +2090,10 @@
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "976de8ae-27b5-a9ad-95b9-ff7e3b597902"
                 }
             ]
         },
@@ -2106,8 +2106,13 @@
                     0.0,
                     -3.0848
                 ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -88.3097
+                ],
                 "scale": [
-                    100.0
+                    100.0003
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -2122,10 +2127,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e3857c0f-428c-f292-f08d-819f4f4066b9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
                 },
@@ -2134,6 +2135,10 @@
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e3857c0f-428c-f292-f08d-819f4f4066b9"
                 }
             ]
         },
@@ -2156,14 +2161,39 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5e974dac-f552-65fe-c53a-c4c2db1ea78d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sound Spot"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5e974dac-f552-65fe-c53a-c4c2db1ea78d"
                 }
             ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7256f47b-6101-38a9-3407-29e55e5e82c7",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -22.492,
+                    1.1667,
+                    -6.7938
+                ],
+                "scale": [
+                    95.6778,
+                    67.4728,
+                    1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "RestartSensor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e97e2232-f5fe-47cc-99b5-36ad43501c8c"
+            }
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
