@@ -8,9 +8,6 @@
     },
     "data_components": [
         {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
-        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -22,33 +19,19 @@
             },
             "transform": {
                 "position": [
-                    6.4024,
-                    -5.1752,
-                    5.4695
+                    5.4105,
+                    -3.0759,
+                    3.5692
                 ],
                 "rotation": [
-                    -26.4367,
+                    -30.0674,
                     -0.0,
-                    53.6472
+                    53.0321
                 ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "position": [
-                            -4.0,
-                            3.0,
-                            -10.0
-                        ],
-                        "scale": [
-                            -1.0,
-                            -1.0,
-                            1.0
-                        ]
-                    }
-                }
             }
+        },
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
@@ -63,7 +46,7 @@
                 ],
                 "rotation": [
                     0.0,
-                    0.0,
+                    -0.0,
                     179.9987
                 ]
             },
@@ -71,6 +54,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Computer LRG"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49143a8a-169f-95a4-dca8-f2e841daa12f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -91,6 +78,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Street 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "adfd1ee4-4637-1563-ea3b-b472249c5f5b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -111,6 +102,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x1 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ceb1e39e-efed-9786-15de-b4043c8c220c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -123,7 +118,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -2.0,
-                    0.0,
+                    -1.302,
                     0.0
                 ]
             },
@@ -131,6 +126,39 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x2"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "spline": {
+                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+                        "instanceGuid": "3e31ff7b-2cc0-06d4-3245-2eefd623e096"
+                    },
+                    "velocity": 1.0,
+                    "mode": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e98def48-902a-bcd1-8bea-f7b1e38b9cfa"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "c4205389-4de4-8e8c-ddf1-7bf6857a2d7f",
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 1,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0.0,
+                            "gravityScale": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "6c291482-d80b-f653-3e34-05c0f35326b3"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -151,6 +179,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x2 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5407064b-c141-aff1-2ebc-0a3c40e64151"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -176,6 +208,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "02b8d648-4897-7617-b28e-40a544be0351"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -189,13 +225,46 @@
                 "position": [
                     -9.0,
                     0.0,
-                    0.0
+                    0.6032
                 ]
             },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x2"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "spline": {
+                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+                        "instanceGuid": "b06baf63-e624-c10e-225a-4c58126bad46"
+                    },
+                    "velocity": 1.0,
+                    "mode": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49ea030d-231c-a02c-fb61-6515cca0c3ba"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "35cd0f5b-a5f0-4d6c-9011-3a604ddb788e",
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 1,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0.0,
+                            "gravityScale": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "fbadb2d7-2055-fd75-657e-9850eff63b21"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -208,7 +277,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -14.0,
-                    7.6027,
+                    6.3006,
                     2.0
                 ]
             },
@@ -216,6 +285,39 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x4"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "spline": {
+                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+                        "instanceGuid": "41b542b3-71b5-8a8d-e0cc-ada2207cd7d3"
+                    },
+                    "velocity": 1.0,
+                    "mode": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "31e9104e-a8ac-7a76-79e6-d616a6906ef3"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "3b3f7a9b-ab22-b47a-62b2-022e94604938",
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 1,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0.0,
+                            "gravityScale": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "dd633d55-cd3f-4053-3a19-05aab41a18f1"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -233,10 +335,14 @@
                 ]
             },
             "data_components": [
-                    {
-                        "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                        "name": "Platform 4x4 Empty"
-                    }
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform 4x4 Empty"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "868298c0-0813-a4d3-e3fb-a3b3a5a531b6"
+                }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "b0616e03-891f-d331-5077-d3cf050a54bd"
@@ -249,13 +355,46 @@
                 "position": [
                     -13.9286,
                     15.0451,
-                    0.7555
+                    1.8689
                 ]
             },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.001"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "spline": {
+                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+                        "instanceGuid": "22689090-6384-db34-3cf7-f915a48aed73"
+                    },
+                    "velocity": 1.0,
+                    "mode": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ff7524ad-4a3d-e864-d889-fe46188b43d7"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "95ac9bd5-324b-32a9-6654-006adf213838",
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 1,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0.0,
+                            "gravityScale": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "fa97073b-95cd-9e8e-587c-e7643c41c680"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -281,6 +420,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 4x1 Empty.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5bd33d7b-c112-123c-1568-057261da3fdf"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -292,13 +435,13 @@
             "instanceGuid": "154ceefd-ab1e-9576-084b-8521a8c68d8c",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    3.3875,
+                    3.3036,
                     -0.0395,
                     0.6865
                 ],
                 "rotation": [
                     0.0,
-                    0.0,
+                    -0.0,
                     89.999
                 ]
             },
@@ -307,14 +450,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -356,14 +499,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -386,11 +529,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -426,14 +569,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -471,14 +614,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -503,8 +646,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Hazard"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7256f47b-6101-38a9-3407-29e55e5e82c7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -576,6 +719,16 @@
                             }
                         }
                     ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "45636c8c-6994-609f-7d26-95fceee17fcc",
+                            "flags": 2
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -599,6 +752,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 2x2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bb928375-9274-d1b2-8f8e-1132122d280d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -623,11 +780,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sound Spot"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -643,7 +800,8 @@
                     -1.898,
                     -3.3224,
                     0.0205
-                ]
+                ],
+                "referenced": true
             },
             "304ec37e-bce4-48b6-9c2e-6108738270ff": {
                 "spline": {
@@ -704,11 +862,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -726,10 +884,11 @@
                     0.0205
                 ],
                 "rotation": [
-                    89.9995,
-                    0.0,
+                    89.9992,
+                    -0.0,
                     0.0
-                ]
+                ],
+                "referenced": true
             },
             "304ec37e-bce4-48b6-9c2e-6108738270ff": {
                 "spline": {
@@ -790,11 +949,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -810,7 +969,8 @@
                     -14.0,
                     3.1022,
                     2.0151
-                ]
+                ],
+                "referenced": true
             },
             "304ec37e-bce4-48b6-9c2e-6108738270ff": {
                 "spline": {
@@ -871,11 +1031,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -891,6 +1051,11 @@
                     -18.6243,
                     5.8916,
                     3.6389
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -177.4562
                 ]
             },
             "data_components": [
@@ -943,19 +1108,6 @@
                             }
                         }
                     ]
-                },
-                {
-                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "a34a89de-6bec-0ede-7f43-7dcefc115dd9",
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "ce6bc7da-63f7-476e-a014-0ec4184bf526"
-                        }
-                    ],
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
-                    }
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -968,14 +1120,47 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -13.9286,
-                    16.9533,
-                    2.7572
+                    16.9531,
+                    2.4551
                 ]
             },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.001"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "spline": {
+                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+                        "instanceGuid": "dbd5ff9a-e771-80db-2088-dec9977377de"
+                    },
+                    "velocity": 1.0,
+                    "mode": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bef0de6a-1706-7966-e06d-c82b409a556a"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "04165afb-9a0f-a15a-ff5a-d0ae39a8992e",
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 1,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0.0,
+                            "gravityScale": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "fa97073b-95cd-9e8e-587c-e7643c41c680"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -989,13 +1174,46 @@
                 "position": [
                     -13.9286,
                     18.8041,
-                    2.6549
+                    3.5274
                 ]
             },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Platform 1x1 Empty.001"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "spline": {
+                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+                        "instanceGuid": "ecda50b1-9062-081a-9d6b-5c32d3f2f0b6"
+                    },
+                    "velocity": 1.0,
+                    "mode": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "92a72353-cf57-eba9-a962-3336994b0625"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "d99d0257-9b3e-f6da-b794-927425303239",
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 0,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0.0,
+                            "gravityScale": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "fa97073b-95cd-9e8e-587c-e7643c41c680"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1012,10 +1230,11 @@
                     1.1036
                 ],
                 "rotation": [
-                    89.9995,
-                    0.0,
+                    89.9992,
+                    -0.0,
                     0.0
-                ]
+                ],
+                "referenced": true
             },
             "304ec37e-bce4-48b6-9c2e-6108738270ff": {
                 "spline": {
@@ -1076,11 +1295,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -1098,10 +1317,11 @@
                     1.8753
                 ],
                 "rotation": [
-                    89.9995,
-                    0.0,
+                    89.9992,
+                    -0.0,
                     0.0
-                ]
+                ],
+                "referenced": true
             },
             "304ec37e-bce4-48b6-9c2e-6108738270ff": {
                 "spline": {
@@ -1162,11 +1382,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -1184,10 +1404,11 @@
                     2.648
                 ],
                 "rotation": [
-                    89.9995,
-                    0.0,
+                    89.9992,
+                    -0.0,
                     0.0
-                ]
+                ],
+                "referenced": true
             },
             "304ec37e-bce4-48b6-9c2e-6108738270ff": {
                 "spline": {
@@ -1248,11 +1469,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
